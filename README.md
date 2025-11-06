@@ -40,11 +40,7 @@ The converter integrates a **switched-capacitor circuit** with a **main DC–AC 
 ## 🚀 Impact
 The proposed converter architecture demonstrates a scalable, lightweight, and cost-effective alternative to traditional boost VSIs — contributing toward **next-generation EV drive efficiency** and **sustainable transportation innovation**.
 
----
 
-## 📜 Citation
-> B. Mohan Sai et al., *“Switched Capacitor Voltage Boost Converter for Hybrid Electric Drives,”*  
-> Vignan’s Institute of Information Technology, 2022.
 
 ---
 
