@@ -46,4 +46,4 @@ The proposed converter architecture demonstrates a scalable, lightweight, and co
 
 ## 🔗 Author Links
 **Mohan Sai Bandarupalli**  
-🔗 [GitHub](https://github.com/MohanSaiBandarupalli) | [LinkedIn](https://linkedin.com/in/mohansai-bandarupalli)
+🔗 [GitHub](https://github.com/MohanSaiBandarupalli) | [LinkedIn](https://linkedin.com/in/bmohansai)
